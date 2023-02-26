@@ -4,7 +4,7 @@
 
 Язык справки:
 Русский язык
-[English](REFDME.mb)
+[English](https://github.com/Alxim/CodeCountLine)
 
 Пример результатов работы программы
 
