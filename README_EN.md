@@ -1,14 +1,14 @@
 # CodeCountLine
-Проект для подсчёта количества строк кода. Выдаёт таблицу с перечнем файлов, их размером и контрольной суммой
+Project for counting the number of lines of code. Gives a table with a list of files, their size and checksum
 
 
 > [!div class="op_single_selector"]
 > - [Русский язык](../REFDME.mb)
 > - [English](../REFDME_EN.mb)
 
-Пример результатов работы программы
+An example of the results of the program
 
-|Имя файла|Размер файла в байтах|Дата создания|Контрольная сумма|
+|File name|File size in bytes|Date create|Check sum|
 |--|--|--|--|
 |/tools/time_string.cpp|3270|17.02.2023|dae9dfa95e0a41afe38c157a2183a6bb|
 |/tools/time_string.h|1900|17.02.2023|6d98113800a8b6a4b3c321e16f97b0d0|
@@ -19,4 +19,4 @@
 |main.cpp|185|17.02.2023|c099ee7bd48778e5e9ea1952a8ed7b55|
 
 
-Так же программа может создавать единый файл с кодом из всех файлов.
+The program can also create a single file with code from all files.
