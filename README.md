@@ -2,8 +2,8 @@
 Project for counting the number of lines of code. Gives a table with a list of files, their size and checksum
 
 Language:
-> [Русский язык](https://github.com/Alxim/CodeCountLine/blob/main/README_RU.md)
-> English
+- [Русский язык](https://github.com/Alxim/CodeCountLine/blob/main/README_RU.md)
+- <span style="color:gray"> English </span>
 
 An example of the results of the program
 

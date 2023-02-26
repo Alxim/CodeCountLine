@@ -3,8 +3,8 @@
 
 
 Язык справки:
-Русский язык
-[English](https://github.com/Alxim/CodeCountLine)
+- <span style="color:gray"> Русский язык </span>
+- [English](https://github.com/Alxim/CodeCountLine)
 
 Пример результатов работы программы
 
